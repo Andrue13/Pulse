@@ -1,3 +1,5 @@
+@import 'base/variables';
+@import 'base/animations';
 
 .container {
     max-width: 950px;
@@ -15,3 +17,5 @@
 @import 'blocks/feed';
 @import 'blocks/footer';
 @import 'blocks/modal';
+@import 'blocks/pageup';
+@import '../node_modules/animate.css/animate.min.css';
